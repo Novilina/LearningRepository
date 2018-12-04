@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{2202EC23-D17E-42C1-960F-0871BEA4CAE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count", "Count\Count.csproj", "{FDE54441-7CBE-4A1D-93C5-8CC6E3CB3B86}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2202EC23-D17E-42C1-960F-0871BEA4CAE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2202EC23-D17E-42C1-960F-0871BEA4CAE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2202EC23-D17E-42C1-960F-0871BEA4CAE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDE54441-7CBE-4A1D-93C5-8CC6E3CB3B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDE54441-7CBE-4A1D-93C5-8CC6E3CB3B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDE54441-7CBE-4A1D-93C5-8CC6E3CB3B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDE54441-7CBE-4A1D-93C5-8CC6E3CB3B86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
